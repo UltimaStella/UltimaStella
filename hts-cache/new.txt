@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-04:15:32	388744/388744	---MCZ	200	added ('OK')	text/html	date:Fri,%2010%20Nov%202023%2013:17:01%20GMT	https://www.splunk.com/	D:Temalar/1213214234/www.splunk.com/index.html	(from )
-04:15:32	1590/1590	---M-Z	200	added ('OK')	text/plain	date:Wed,%2001%20Nov%202023%2023:07:27%20GMT	https://www.splunk.com/robots.txt		(from )
