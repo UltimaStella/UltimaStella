@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+splunk.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.www.splunk.com	TRUE	/	FALSE	1999999999	is_bot	05a8fd1bd91e438581f4b2ffc31c3d70
+
